@@ -2,8 +2,10 @@ yfinance==0.1.85
 streamlit==1.14.0
 altair==4.2.0
 
-sklearn.tree
-sklearn.model_selection
+sklearn
+
+# sklearn.tree
+# sklearn.model_selection
 # scikit-learn @ file:///C:/b/abs_eezai1guz5/croot/scikit-learn_1667587552067/work
 
 pandas==1.5.1
