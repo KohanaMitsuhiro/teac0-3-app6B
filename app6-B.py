@@ -117,7 +117,7 @@ else:
     CorrectRate = df_bool.sum() / len(sample["正誤"]) * 100
 
     text = sample["予測"].iloc[-0]
-    text
+    # text
 
 
 
