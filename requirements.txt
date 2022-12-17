@@ -4,4 +4,3 @@ altair==4.2.0
 scikit-learn
 pandas==1.5.1
 numpy==1.23.4
-
